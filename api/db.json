@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "New one",
+      "id": 1
+    },
+    {
+      "title": "New Stream ",
+      "description": "This is a new stream",
+      "id": 2
+    },
+    {
+      "title": "Designing Pages",
+      "description": "Web and mobile application!",
+      "userId": "117675314818584565306",
+      "id": 3
+    }
+  ]
+}
